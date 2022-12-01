@@ -11,15 +11,9 @@
   <a href="https://t.me/DuskyFox">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=black%22%20alt=%22Telegram%20Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCk08o87_7lwjLFQa55JFXrw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
 </div>
 <div id="viewprof" align="center">
   <img src="https://komarev.com/ghpvc/?username=Dusky-FOX-y&style=flat-square&color=blue" alt=""/>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" width="600" height="300"/>
 </div>
 
 ### :fox_face: AboutMe : I am a Middle Developer <img src="https://media.giphy.com/media/oDB7iQel7YY6I/giphy.gif" width="30"> from Moscow.
@@ -51,4 +45,6 @@
 
 ---
 ### :fire: My Stats :
-  <img>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dusky-FOX-y&theme=dark&hide_border=true&border_radius=3.8)](https://git.io/streak-stats)
+<div align="center">
+  <img src= "http://github-readme-streak-stats.herokuapp.com?user=Dusky-FOX-y&theme=dark&hide_border=true&border_radius=3.8">
+</div>
