@@ -12,9 +12,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=black%22%20alt=%22Telegram%20Badge"/>
   </a>
 </div>
-<div id="viewprof" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dusky-FOX-y&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 ### :fox_face: AboutMe : I am a Middle Developer <img src="https://media.giphy.com/media/oDB7iQel7YY6I/giphy.gif" width="30"> from Moscow.
 
