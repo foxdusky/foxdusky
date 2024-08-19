@@ -44,5 +44,5 @@
 ---
 ### :fire: My Stats :
 <div align="center">
-  [![Metrics](https://raw.githubusercontent.com/Syrnnik/Syrnnik/ci-generated-metrics/github-metrics.svg)](https://github.com/Syrnnik)
+  [![Metrics](https://raw.githubusercontent.com/foxdusky/foxdusky/ci-generated-metrics/github-metrics.svg)](https://github.com/foxdusky)
 </div>
