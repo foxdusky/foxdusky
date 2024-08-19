@@ -44,5 +44,5 @@
 ---
 ### :fire: My Stats :
 <div align="center">
-  <img src= "http://github-readme-streak-stats.herokuapp.com?user=Dusky-FOX-y&theme=dark&hide_border=true&border_radius=3.8">
+  [![Metrics](https://raw.githubusercontent.com/Syrnnik/Syrnnik/ci-generated-metrics/github-metrics.svg)](https://github.com/Syrnnik)
 </div>
