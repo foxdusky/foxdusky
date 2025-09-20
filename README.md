@@ -13,7 +13,7 @@
 </div>
 
 
-### :fox_face: AboutMe : I am a Middle Developer <img src="https://media.giphy.com/media/oDB7iQel7YY6I/giphy.gif" width="30"> from Moscow.
+### :fox_face: AboutMe : I am a Middle+ Backend Developer <img src="https://media.giphy.com/media/oDB7iQel7YY6I/giphy.gif" width="30"> from Moscow.
 
 - :telescope: At the moment I am studying to become an information systems specialist.
 
